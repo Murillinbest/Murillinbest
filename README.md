@@ -16,9 +16,3 @@ Cada cadastro armazena:
 - **Nome**: String de até 50 caracteres.
 - **Idade**: Inteiro.
 - **CPF**: String de 11 caracteres.
-
-## 🚀 Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd sistema-cadastro-dinamico
